@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/gathervine-gh-hosting/static/js/main.bcd4b82a.chunk.js",
+    "main.js.map": "/gathervine-gh-hosting/static/js/main.bcd4b82a.chunk.js.map",
+    "runtime-main.js": "/gathervine-gh-hosting/static/js/runtime-main.1dbf0d16.js",
+    "runtime-main.js.map": "/gathervine-gh-hosting/static/js/runtime-main.1dbf0d16.js.map",
+    "static/css/2.25b83785.chunk.css": "/gathervine-gh-hosting/static/css/2.25b83785.chunk.css",
+    "static/js/2.365ed2a7.chunk.js": "/gathervine-gh-hosting/static/js/2.365ed2a7.chunk.js",
+    "static/js/2.365ed2a7.chunk.js.map": "/gathervine-gh-hosting/static/js/2.365ed2a7.chunk.js.map",
+    "index.html": "/gathervine-gh-hosting/index.html",
+    "precache-manifest.8b9c2b691cfe1a98eaf93b9c853a4d9b.js": "/gathervine-gh-hosting/precache-manifest.8b9c2b691cfe1a98eaf93b9c853a4d9b.js",
+    "service-worker.js": "/gathervine-gh-hosting/service-worker.js",
+    "static/css/2.25b83785.chunk.css.map": "/gathervine-gh-hosting/static/css/2.25b83785.chunk.css.map",
+    "static/js/2.365ed2a7.chunk.js.LICENSE.txt": "/gathervine-gh-hosting/static/js/2.365ed2a7.chunk.js.LICENSE.txt",
+    "static/media/dance.png": "/gathervine-gh-hosting/static/media/dance.2cd3ac16.png",
+    "static/media/games.png": "/gathervine-gh-hosting/static/media/games.dd443c1e.png",
+    "static/media/math.png": "/gathervine-gh-hosting/static/media/math.cd1bcf47.png",
+    "static/media/music.png": "/gathervine-gh-hosting/static/media/music.8050950d.png",
+    "static/media/paint.png": "/gathervine-gh-hosting/static/media/paint.a54eb218.png",
+    "static/media/sit.png": "/gathervine-gh-hosting/static/media/sit.70630596.png",
+    "static/media/theater.png": "/gathervine-gh-hosting/static/media/theater.fe7d8a37.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dbf0d16.js",
+    "static/css/2.25b83785.chunk.css",
+    "static/js/2.365ed2a7.chunk.js",
+    "static/js/main.bcd4b82a.chunk.js"
+  ]
+}
