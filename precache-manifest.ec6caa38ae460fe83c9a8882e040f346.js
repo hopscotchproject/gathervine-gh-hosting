@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e7dbae8bec9251ae276faf101a3f9f0",
+    "revision": "6ef1f081af275ccd294c2ef487b82581",
     "url": "/gathervine-gh-hosting/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gathervine-gh-hosting/static/js/2.365ed2a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f5c07d8569042bfb60b",
-    "url": "/gathervine-gh-hosting/static/js/main.bcd4b82a.chunk.js"
+    "revision": "953a2d7c65b3a0193303",
+    "url": "/gathervine-gh-hosting/static/js/main.fbb9fb1d.chunk.js"
   },
   {
     "revision": "a11dbc30157418400a23",
